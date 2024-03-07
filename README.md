@@ -4,5 +4,5 @@ Selection Sort Project
 
 ## Description
 
-Project of Data Structures and Algorithm courses at Patika Academy
+Projects of Data Structures and Algorithm courses at Patika Academy
 
