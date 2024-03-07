@@ -1,6 +1,6 @@
 # Project Title
 
-Selection Sort Project
+Projects of Data Structures and Algorithm
 
 ## Description
 
